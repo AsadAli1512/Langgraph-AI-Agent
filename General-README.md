@@ -51,3 +51,6 @@
 ##### UUID 4 Generator: https://www.uuidgenerator.net/version4  (For random UUID ID)
 ##### Enable Google authentication in your Supabase project.
 ##### Create .env.local in frontend and .env at backend using .env.example as reference.
+
+## Special thanks to **Hammad Afzal Qureshi** for his valuable help and support during this project.
+
