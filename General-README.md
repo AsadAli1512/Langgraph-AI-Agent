@@ -7,7 +7,7 @@
 
 ## Document Implementation Steps
 
-### **Frontend**
+## **Frontend**
 
 git clone https://github.com/langchain-ai/open-agent-platform.git
 cd open-agent-platform
@@ -24,31 +24,31 @@ yarn dev
 .env.local → Set this file according to instructions.
 npm run dev
 
-### **Backend**
+## **Backend**
 
 git clone https://github.com/langchain-ai/oap-langgraph-tools-agent.git
 uv venv
 
-# Activation:
+### Activation:
 
-# Windows CMD:
+### Windows CMD:
 
 .venv\Scripts\activate.bat
 
-# PowerShell:
+### PowerShell:
 
 .venv\Scripts\Activate.ps1
 uv sync
 copy .env.example .env
 uv run langgraph dev --no-browser
 
-### **LangConnect**
+## **LangConnect**
 
 git clone https://github.com/langchain-ai/langconnect.git
 cd langconnect
 docker-compose up -d
 
-### **Additional Info**
+## **Additional Info**
 
 UUID 4 Generator: https://www.uuidgenerator.net/version4 (For random UUID ID)
 
