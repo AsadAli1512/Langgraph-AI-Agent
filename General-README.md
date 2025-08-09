@@ -9,8 +9,8 @@
 
 ## **Frontend**
 
-#####git clone https://github.com/langchain-ai/open-agent-platform.git
-####cd open-agent-platform
+##### git clone https://github.com/langchain-ai/open-agent-platform.git
+#### cd open-agent-platform
 uv venv
 .venv\Scripts\Activate.ps1
 uv init
