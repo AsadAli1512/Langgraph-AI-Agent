@@ -53,4 +53,5 @@
 ##### Create .env.local in frontend and .env at backend using .env.example as reference.
 
 ## Special thanks to **Hammad Afzal Qureshi** for his valuable help and support during this project.
+### https://github.com/HAQ9827
 
